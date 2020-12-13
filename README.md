@@ -109,7 +109,7 @@ Pipeline RunDetails Widget
 
 ## Screen Recording
 ***
-[Click here for the Screencast](https://drive.google.com/file/d/180JqYjitLLWAOrU1sIijdsMxuXo47oPz/view)
+:movie_camera: [Click here for the Screencast](https://drive.google.com/file/d/180JqYjitLLWAOrU1sIijdsMxuXo47oPz/view)
 ***
 
 ## Standout Suggestions
