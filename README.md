@@ -59,7 +59,7 @@ This is the screen shot of my script
 ![log.py script](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/enable-log-2.JPG)
 
 Azure Portal UI screenshot for depicting the Application Insights is enabled
-![log.py script](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/enable-log-3.JPG)
+![log.py script](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/enable-log-3.png)
 ***
 
 4. **Make documentation of deployed Endpoint using Swagger**
