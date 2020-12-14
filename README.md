@@ -93,6 +93,8 @@ Registered Dataset "BankMarketing-Dataset"
 ![Dataset](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/pipeline-dataset.JPG)
 Published Pipeline Overview Graph 
 ![Published Pipeline Overview](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/pipeline-4.JPG)
+Published Pipeline Active Status
+![Published Pipeline Overview](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/pipeline-Active.JPG)
 AutoML Pipeline Run details
 ![Run Details](https://github.com/yash872/operationalizing-machine-learning/blob/master/Images/pipeline-1.JPG)
 Running Pipeline Endpoints Run
